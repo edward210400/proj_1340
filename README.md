@@ -10,13 +10,16 @@ Link:
 Problem statement: As a first year student, most of us are living away from home and becoming more independent. One of the aspect that goes hand in hand with becoming more independent is managing our money. We realize that our friends and ourselves find it difficult to manage our expenses and often forget what we spent our money on. Hence, recognizing the problems with managing expenses that our friends and us face, we decided to make a program to help us manage our expenses. 
 
 Problem setting:
-We assume that the user of the program is a University student. By using this program, the user could track down their past spending. The program could also set the budget for monthly spendings. By implementing this, the user should be able to know what cause them to overspend. The user would be warned if their spending almost reach the monthly budget. The program would be useful to manage their fiancial status.
+We assume that the user of the program is a University student. By using this program, the user could track down their past spending. The program could also set the budget for monthly spendings. By implementing this, the user should be able to know what cause them to overspend. The user would be warned if their spending almost reach the monthly budget. The program would be useful to manage their fiancial status. An interesting feature that could separate this program from other programs is that their spending can be categorized based on where they spent their money and also allow the user to budget their categorized spending. Moreover, we are assuming that students also want to save some of their money, hence, this program will also allow user to save their money and provide tips on how to save their money. Lastly, the program will also provide them with monthly reports on where they spent their money.
 
 Program features:
   1. Allows the user to see their past spending.
-  2. Allows the user to set their monthly budget and give an warning when their spendin almost reach the budget.
+  2. Allows the user to set their monthly budget and give an warning when their spending almost reach the budget.
   3. Allows the user to input their amount of money and calculate how much they have left.
   4. Allows the user to see the date and time when they spend their money.
   5. Give warning to the user if their spending almost reach the monthly budget.
   6. Allows the user to search for specific spending.
-  7. 
+  7. Allow user to categorize their spend. For example: food, shopping, transportation etc.
+  8. The user can set their monthly budget based on their category. For example: 3000 HKD on food, 1000 HKD on online shopping etc. 
+  9. Provide a feature where the user can input how much money they want to save and the program will help them. The program will provide details on how much money they can spend each day and alert them when they are not on track to save the specified amount of money.
+  10. Provide users with a monthly report on where they spent their most money based on the categories. Also, provide them with tips on how they can save more money. 
