@@ -20,4 +20,4 @@ Program features:
   6. Allows the user to remove a specific spending.
   7. Allow user to categorize their spendings. For example: food, shopping, transportation etc. 
   9. Provide them with tips on how they can save more money. The program will provide details on how much money they can spend each day and provide a recommended amount of spending in each category.
-  10. Provide users with a monthly report on where they spent their most money based on the categories. 
+  10. Provide users with a monthly report, an overview of of their spendings on that month. 
