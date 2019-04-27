@@ -1,12 +1,12 @@
 January 
 4000
 3000
-01 Income - Cash 92.2
-03 Expense Food Cash 20.5
-02 Expense Transport Others 5.1
-03 Expense Shopping CreditCard 199.2
+01 Income - Cash 92
+03 Expense Food Cash 20
+02 Expense Transport Others 5
+03 Expense Shopping CreditCard 199
 05 Income - DebitCard 15
-04 Expense Others 172.6
+04 Expense - Others 172
 05 Expense Food Cash 49.9
 01 Expense Shopping DebitCard 89.9
 07 Income - Others 40
