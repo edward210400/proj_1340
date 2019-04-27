@@ -38,3 +38,60 @@ Program features:
  2. Once exported to Linux, simply type in "make program" and the program will be compiled.
  3. Type "./program" to execute the program.
  
+January 
+4000
+3000
+01 Income - Cash 92.2
+03 Expense Food Cash 20.5
+02 Expense Transport Others 5.1
+03 Expense Shopping CreditCard 199.2
+05 Income - DebitCard 15
+04 Expense Others 172.6
+05 Expense Food Cash 49.9
+01 Expense Shopping DebitCard 89.9
+07 Income - Others 40
+06 Income - Cash 99.69
+08 Expense Transport Others 5.7
+09 Expense Food Cash 36
+04 Expense Transport Cash 12.1
+08 Expense Others Others 23.3
+09 Expense Food DebitCard 92.1
+06 Expense Transport Others 8.9
+07 Income - Cash 70
+13 Income - Cash 20 
+14 Income - DebitCard 200
+12 Expense Food Cash 89.9
+15 Expense Transport Others 6.2
+11 Expense Others Others 27.7
+16
+16
+14
+15
+18
+18
+18
+19
+13
+14
+15
+12
+19
+20
+20
+11
+13
+25
+26
+26
+22
+23
+24
+25
+26
+29
+30
+31
+27
+28
+21
+21
