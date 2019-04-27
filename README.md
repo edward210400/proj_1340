@@ -19,5 +19,22 @@ Program features:
   4. Allows the user to see the date when they spend their money and on which category it was spent on.
   6. Allows the user to remove a specific spending.
   7. Allow user to categorize their spendings. For example: food, shopping, transportation etc. 
-  9. Provide them with tips on how they can save more money. The program will provide details on how much money they can spend each day and provide a recommended amount of spending in each category.
-  10. Provide users with a monthly report, an overview of of their spendings on that month. 
+  8. Provide them with tips on how they can save more money. The program will provide details on how much money they can spend each day and provide a recommended amount of spending in each category.
+  9. Provide users with a monthly report, an overview of of their spendings on that month. 
+  10. Program can also check the current money they have and also provide user with a warning and their 3 biggest spendings once theyhave exceeded their monthly budget.
+   
+ Assumptions in the program/ Input/Output specifications:
+ 1. This program can only run for 1 month, once the program is terminated all data will be lost. Hence, the user can either input their 1 month spending in a form of a text file or input them manually.
+ 2. This program assumes that the user will input the data in the correct format. For example, when asked for how much money they have, we assume that the user will input 4000 instead of "four thousand". Also, when asked whether it is an income or expense, we assume the user will type in "Income" or "Expense". Similarly, we also assume that when asked their payment method, the user will input "Cash", "DebitCard", "CreditCard", or "Others", in that specific format only.
+ 3. When given a list of options, the program assumes that the user will input the number in which the option they want is listed in. For example, if one of the option says "1. Say hello world", the program assumes that the user will type in "1" and not "one".
+ 4. The program will only terminate once the user chooses to exit.
+ 
+ Sample Input Files:
+1.Once the program runs and user chooses input from file, we assume that the filename will be "sample.txt".
+2. The file output will be in the directory named "sample_report.txt".
+
+ Compilation and Execution instruction:
+ 1. Download the source files in github and export it to Linux.
+ 2. Once exported to Linux, simply type in "make program" and the program will be compiled.
+ 3. Type "./program" to execute the program.
+ 
