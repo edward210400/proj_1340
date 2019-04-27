@@ -1,0 +1,6 @@
+﻿JANUARY
+4000
+2000
+3 Income food Cash 420.3
+2 Expense Transport DebitCard 69.69
+7 Expense Food CreditCard 320.6767
