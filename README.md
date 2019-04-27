@@ -30,8 +30,8 @@ Program features:
  4. The program will only terminate once the user chooses to exit.
  
  Sample Input Files:
-1.Once the program runs and user chooses input from file, we assume that the filename will be "sample.txt".
-2. The file output will be in the directory named "sample_report.txt".
+1.Once the program runs and user chooses input from file, we assume that the filename will be "sample.txt" or "sample2.txt.
+2. The file output will be in the directory named "sample_report.txt" and "sample2_report.txt.
 
  Compilation and Execution instruction:
  1. Download the source files in github and export it to Linux.
